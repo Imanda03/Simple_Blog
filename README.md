@@ -156,6 +156,6 @@ License
 MIT License
 Contact
 
-Your Name
-your.email@example.com
-Project Link: https://github.com/yourusername/mern-blog-microservices
+Anish Sharma
+asis03ktm@gmail.com
+Project Link: https://github.com/imanda03/Simple_Blog
